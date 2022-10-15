@@ -6,3 +6,5 @@ The goal of this problem is to get all chicks and wolves to the other side of th
   - Breadth first search
   - Depth first search
   - Iterative deepening depth first search
+
+After the user makes a choice on which searching algorithm to use, the program finds a solution with it and outputs the answer to a text document
